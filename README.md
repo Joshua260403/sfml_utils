@@ -1,7 +1,7 @@
 # sfml_utils
 
 These widgets are created for [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018).
-I created these widgets myself.
+The code is mostly made by me, although there might be some little changes team octane members made.
 
 The code might contain references, functions, variables and classes from Nature Zen that aren't in here.
 
