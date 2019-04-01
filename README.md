@@ -13,4 +13,5 @@ You are free to use the code in this repository in your project as long as your 
 
 ## Special thanks
 
-Thanks to Laurent Gomilla, the creator of sfml, for this awesome library!
+Thanks to Laurent Gomila, the creator of [sfml](https://github.com/SFML/SFML), (and all the other sfml devs) for this amazing library!
+[download sfml here](https://www.sfml-dev.org/download/sfml/2.5.1/)
